@@ -1,6 +1,7 @@
 #include"Carta.h"
 Carta::Carta()
 {
+	//caca
 }
 int Carta::getValor()
 {
